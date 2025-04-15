@@ -39,7 +39,7 @@ class Sobremesa extends ItemCardapio{
 
 // Questão 2
 
-echo('--------------- 2 ------------------ <br>');
+echo('--2--<br>');
 
 interface CriadorDeItem{
     public function criarItem();
